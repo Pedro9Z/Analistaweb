@@ -1,0 +1,8 @@
+dnspython
+python-whois
+requests
+beautifulsoup4
+fastapi
+uvicorn
+jinja2
+weasyprint
